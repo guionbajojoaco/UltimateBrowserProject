@@ -4,50 +4,50 @@
 
     <!-- AndroidAgo -->
     <string name="android_ago_just_now">
-        Just now
+        Ahora
     </string>
 
     <!-- Album -->
     <string name="album_title_bookmarks">
-        Bookmarks
+        Marcadores
     </string>
     <string name="album_title_history">
-        History
+        Historial
     </string>
     <string name="album_title_home">
-        Home
+        Inicio
     </string>
     <string name="album_untitled">
-        Untitled
+        Sin titulo
     </string>
 
     <!-- Clear -->
     <string name="clear_label">
-        Clear
+        Limpiar
     </string>
     <string name="clear_menu_done_all">
-        All Done
+        Listo
     </string>
     <string name="clear_title_quit">
-        Clear When the Application Exits
+        Limpiar al salir de la aplicación
     </string>
     <string name="clear_title_bookmarks">
-        Clear Bookmarks
+        Borrar Marcadores
     </string>
     <string name="clear_title_cache">
-        Clear Cache
+        Borrar Caché
     </string>
     <string name="clear_title_cookie">
-        Clear Cookies
+        Borrar Cookies
     </string>
     <string name="clear_title_form_data">
-        Clear Form data
+        Borrar Datos de formulario
     </string>
     <string name="clear_title_history">
-        Clear History
+        Borrar historial
     </string>
     <string name="clear_title_passwords">
-        Clear Passwords
+        Borrar contraseñas
     </string>
 
     <!-- Dialog -->
@@ -61,63 +61,63 @@
         Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
     </string>
     <string name="dialog_sign_in_username">
-        Username
+        Usuario
     </string>
     <string name="dialog_sign_in_password">
-        Password
+        Contraseña
     </string>
     <string name="dialog_button_positive">
         OK
     </string>
     <string name="dialog_button_negative">
-        Cancel
+        Cancelar
     </string>
     <string name="dialog_button_custom">
-        Custom
+        Personalizado
     </string>
     <string name="dialog_title_download">
-        Do you want to download this file?
+       ¿Quieres descargar este archivo?
     </string>
     <string name="dialog_title_resubmission">
-        Resubmit
+        Reenviar
     </string>
     <string name="dialog_title_warning">
-        Warning
+        Advertencia
     </string>
     <string name="dialog_title_sign_in">
-        Sign in
+        Iniciar
     </string>
     <string name="dialog_content_resubmission">
-        Would you like to resubmit your data?
+        ¿Deseas reenviar tu información?
     </string>
     <string name="dialog_content_ssl_error">
         The certificate of the site is not trusted. Proceed anyway?
     </string>
     <string name="dialog_content_update">
-        Click the link to check for updates -\n http://bit.ly/UBPUpdate \n
-        Current version is 1.4.6.
+        Clickea el link para ver las actualizaciones -\n http://bit.ly/UBPUpdate \n
+        Version actual: 1.4.6.
     </string>
     <string name="dialog_content_upload">
-        Currently, File upload is only supported on Android 5.0 and above.
+        Actualmente, solo se pueden subir archivos en Android 5.0 y superior.
     </string>
 
     <!-- List -->
     <string name="list_empty">
-        Current list is empty
+        Esta lista esta vacía
     </string>
 
     <!-- Main -->
     <string name="main_menu_new_tab">
-        Open in a new tab
+        Abrir nueva ventana
     </string>
     <string name="main_menu_copy_link">
-        Copy link
+        Copiar enlace
     </string>
     <string name="main_menu_save">
-        Save as
+        Guardar Como
     </string>
     <string name="main_omnibox_input_hint">
-        Search or type URL
+        Buscar o ingresa una Url
     </string>
     <string name="main_relayout_ok">
         OK
@@ -128,7 +128,7 @@
 
     <!-- Notification -->
     <string name="notification_content_holder">
-        Click to View Pages
+        Click para ver paginas
     </string>
 
     <!-- Readability -->
@@ -136,10 +136,10 @@
         Readability Mode
     </string>
     <string name="readability_menu_background">
-        Background
+        Fondo
     </string>
     <string name="readability_menu_share">
-        Share
+        Compartir
     </string>
     <string name="readability_empty">
         ERROR: Failed to access Readability Server. Please check access token and Internet connection.
@@ -147,20 +147,20 @@
 
     <!-- Search -->
     <string name="search_hint">
-        Search
+        Buscar
     </string>
 
     <!-- Settings -->
     <string name="setting_label">
-        Settings
+        Ajustes
     </string>
     <!-- Browser settings -->
     <string name="setting_title_browser">
-        Browser Settings
+        Ajustes de Navegador
     </string>
     <!-- Search engine -->
     <string name="setting_title_search_engine">
-        Search Engine
+        Motor de búsqueda
     </string>
     <string name="setting_summary_search_engine_google">
         Google
@@ -178,30 +178,30 @@
         Baidu
     </string>
     <string name="setting_summary_search_engine_custom">
-        Custom
+        Personalizado
     </string>
     <!-- Notification -->
     <string name="setting_title_notification_priority">
-        Notification Priority
+        Prioridad de Notificaciones
     </string>
     <string name="setting_summary_notification_priority_default">
         Default
     </string>
     <string name="setting_summary_notification_priority_high">
-        High
+        Alto
     </string>
     <string name="setting_summary_notification_priority_low">
-        Low
+        Bajo
     </string>
     <!-- Omnibox switcher -->
     <string name="setting_title_omnibox_position">
-        Omnibox Position
+        Posición de barra de navegación
     </string>
     <string name="setting_summary_omnibox_position_top">
-        Top
+        Arriba
     </string>
     <string name="setting_summary_omnibox_position_bottom">
-        Bottom
+        Debajo
     </string>
     <!-- Omnibox control -->
     <string name="setting_title_omnibox_control">
@@ -212,58 +212,58 @@
      </string>
     <!-- Volume key scroll -->
     <string name="setting_title_volume_control">
-        Volume Control
+        Botones de volumen
     </string>
     <string name="setting_summary_vc_switch_tabs">
-        Switch Tabs
+        Cambiar entre paginas
     </string>
     <string name="setting_summary_vc_scroll_webpage">
-        Scroll Webpage
+        Mover la página
     </string>
     <string name="setting_summary_vc_system_default">
-        System Default
+        Predeterminado
     </string>
     <!-- Images -->
     <string name="setting_title_images">
-        Images
+        Imagenes
     </string>
     <string name="setting_summary_images">
-        Enable Network images
+        Habilitar imagenes de red
     </string>
     <!-- Cookies -->
     <string name="setting_title_cookie">
         Cookies
     </string>
     <string name="setting_summary_cookie">
-        Enable Cookies
+        Habilitar Cookies
     </string>
     <!-- JavaScript -->
     <string name="setting_title_javascript">
         JavaScript
     </string>
     <string name="setting_summary_javascript">
-        Enable JavaScript
+        Habilitar JavaScript
     </string>
     <!-- Location -->
     <string name="setting_title_location">
-        Location
+        Ubicación
     </string>
     <string name="setting_summary_location">
-        Allow websites to access your location
+        Habilitar que los sitios conozcan tu ubicación
     </string>
     <!-- Multiple windows -->
     <string name="setting_title_multiple_windows">
-        Multiple Windows
+        Ventanas múltiples
     </string>
     <string name="setting_summary_multiple_windows">
-        Enable Multiple windows
+        Habilitar ventanas múltiples
     </string>
     <!-- Scroll bar -->
     <string name="setting_title_scroll_bar">
-        Scroll Bar
+        Barra de scroll
     </string>
     <string name="setting_summary_scroll_bar">
-        Show scroll bar on Webpages
+        Mostrar barra de scroll
     </string>
     <!-- Text reflow -->
     <string name="setting_title_text_reflow">
@@ -317,7 +317,7 @@
         AdBlock
     </string>
     <string name="setting_summary_adblock">
-        Enable AdBlock
+        Habilitar AdBlock
     </string>
     <string name="setting_title_whitelist">
         Whitelist
